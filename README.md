@@ -6,10 +6,10 @@ This repository contains hands-on tutorials, clean code examples, and practical 
 
 ## 🔍 Modules Covered
 
-| Module        | Usage Highlights                                     |
-|---------------|------------------------------------------------------|
-| [requests](./requests)      | API requests, JSON, status codes                |
-| [pyttsx3](./pyttsx3)        | Text-to-speech (offline)                       |
+| Module        | Usage Highlights                                            |
+|---------------|-------------------------------------------------------------|
+| [requests](./requests)      | API requests, JSON, status codes              |
+| [pyttsx3](./pyttsx3)        | Text-to-speech (offline)                      |
 | [gtts](./gtts)              | Google text-to-speech (online)                |
 | [numpy](./numpy)            | Arrays, numerical computing                   |
 | [pandas](./pandas)          | DataFrames, CSVs, data wrangling              |
