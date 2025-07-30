@@ -20,7 +20,7 @@ This repository contains hands-on tutorials, clean code examples, and practical 
 | [pyperclip](./pyperclip)    | Clipboard interaction                         |
 | [fpdf](./fpdf)              | PDF file creation and formatting              |
 | [wikipedia](./wikipedia)    | Extracting data from Wikipedia API            |
-|                         And MANY MORE!!                                     |
+| <div align="center" colspan="2"><strong>✨ And MANY MORE!! ✨</strong></div> | 
 
 <!-- Add more as folders grow -->
 
