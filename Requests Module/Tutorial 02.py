@@ -62,7 +62,7 @@ for i in soup.find_all('a'):
 
 from API import API_KEY
 
-api = API_KEY  # API_KEY = 'Your API'
+api = API_KEY  # API_KEY = 'Your API'  (enter your api key in the variable API_KEY in seperate file names as API.py, and add it
 
 def get_weather(city):
     url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={api}&units=metric"
