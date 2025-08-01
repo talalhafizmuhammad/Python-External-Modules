@@ -57,7 +57,7 @@ def AnalyzeSentiments(text):
 
     except requests.RequestException as e:
         # If an error occurs (e.g., network issue, invalid key), show the error
-        print(f"⚠️ Request failed for '{text}': {e}")
+        print(f" Request failed for '{text}': {e}")
         return None
 
 
@@ -83,4 +83,5 @@ while True:
         print(f"\nSentiment Analysis for: \"{userInput}\"")
         print(f"Sentiment : {result.get('sentiment')}")
         print(f"Confidence: {result.get('confidence'):.2f}\n")
+
 
