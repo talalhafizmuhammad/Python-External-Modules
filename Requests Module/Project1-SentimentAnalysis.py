@@ -2,20 +2,18 @@
 Sentiment Analysis Program using API Ninjas
 
 What is Sentiment Analysis?
----------------------------
-Sentiment Analysis is a Natural Language Processing (NLP) technique used to determine
-whether a piece of text expresses a Positive, Negative, or Neutral sentiment.
-It is widely used in customer reviews, social media analysis, and chatbots.
+    Sentiment Analysis is a Natural Language Processing (NLP) technique used to determine
+    whether a piece of text expresses a Positive, Negative, or Neutral sentiment.
+    It is widely used in customer reviews, social media analysis, and chatbots.
 
 In this script, we use the 'Sentiment API' provided by API Ninjas to perform sentiment analysis.
 
 How to Get an API Key?
-----------------------
-1. Visit: https://api-ninjas.com
-2. Create a free account or log in.
-3. Go to the 'Sentiment API' section: https://api-ninjas.com/api/sentiment
-4. Copy your free API key from the dashboard.
-5. Paste it into the API_KEY variable below.
+    1. Visit: https://api-ninjas.com
+    2. Create a free account or log in.
+    3. Go to the 'Sentiment API' section: https://api-ninjas.com/api/sentiment
+    4. Copy your free API key from the dashboard.
+    5. Paste it into the API_KEY variable below.
 """
 
 import requests  # Used for sending HTTP requests to the API
@@ -85,3 +83,4 @@ while True:
         print(f"\nSentiment Analysis for: \"{userInput}\"")
         print(f"Sentiment : {result.get('sentiment')}")
         print(f"Confidence: {result.get('confidence'):.2f}\n")
+
