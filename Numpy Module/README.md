@@ -1,4 +1,4 @@
-# 📊 NumPy Basics
+# 📊 NumPy -- Basic-To-Advance!
 
 Welcome to the **NumPy** folder of my Data Science journey!  
 This section contains beginner-friendly code examples and concepts related to **NumPy**, the foundational library for numerical computing in Python.
@@ -12,6 +12,9 @@ This section contains beginner-friendly code examples and concepts related to **
 - ✅ Array indexing and slicing
 - ✅ Array math & broadcasting
 - ✅ Useful NumPy functions
+- ✅ Sorting, Stacking and Splitting
+- ✅ Structured Arrays
+- ✅ Linear Algebraic functionalities... AND LOT MORE!
 
 ---
 
