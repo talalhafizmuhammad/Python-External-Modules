@@ -27,4 +27,5 @@ This section contains beginner-friendly code examples and concepts related to **
 
 ```bash
 pip install numpy
-
+```
+## 📃 Available as JUPYTER NOTEBOOK as well as in PDF FORMAT! HAPPY NUMPY.
