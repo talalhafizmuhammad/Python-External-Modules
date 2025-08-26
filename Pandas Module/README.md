@@ -34,7 +34,7 @@ I explored data cleaning, manipulation, aggregation, and visualization using rea
 
 ## 🤝 Connect with Me  
 - GitHub: [talalhafizmuhammad](https://github.com/talalhafizmuhammad)  
-- LinkedIn: [hafiz-muhammad-talal](https://linkedin.com/hafiz-muhammad-talal)  
+- LinkedIn: [hafiz-muhammad-talal](https://www.linkedin.com/in/hafiz-muhammad-talal/)
 
 ---
 ⭐ Don’t forget to star this repo if you find it helpful!
